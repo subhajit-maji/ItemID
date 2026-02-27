@@ -4,7 +4,7 @@ A comprehensive, open-source searchable database for all Garena Free Fire game i
 
 ## Demo
 
-[Live Site](https://0xme.github.io/ItemID2/)
+[Live Site](https://subhajit-maji.github.io/ItemID/)
 
 ## Features
 
@@ -32,8 +32,8 @@ A comprehensive, open-source searchable database for all Garena Free Fire game i
 
 1. **Clone the repo:**
    ```sh
-   git clone https://github.com/0xMe/ItemID2.git
-   cd ItemID2
+   git clone https://github.com/subhajit-maji/ItemID.git
+   cd ItemID
    ```
 2. **Serve locally:**  
    Use any static file server (e.g. [serve](https://github.com/vercel/serve), Python's `http.server`, etc.)
@@ -86,7 +86,7 @@ Pull requests, bug reports, and feature ideas are welcome!
 
 ## Credits
 
-- Built by [0xMe](https://github.com/0xMe)
+- Built by [SM](https://github.com/subhajit-maji)
 - Free Fire resources & assets © Garena
 
 ---
